@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Muenster Hafen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.952200, 7.644140]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Mecklenbeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.9306023, 7.5815505]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Stadttheater / Städtische Bühnen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.9648002, 7.629376458342788]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Trauttmansdorffstraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.9251439, 7.621505]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Finkenstraße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.9684457, 7.6196868]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Ascheberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.8031273, 7.6854844]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.94664385, 7.590325979509066]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Rathaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.8560196, 7.4891219]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Erlöserkirche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.9605758, 7.635505929525951]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Westfälische Wilhelms-Universität"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.96734215, 7.599243326272159]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Albachten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.9218529, 7.5273089]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Bad Reichenhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.731545, 12.8837117]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Hiltrup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.9025964, 7.6428337]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Hammer Straße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.9552772, 7.6263582]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Rieselfelder"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [52.02755465, 7.6419135137330105]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Aa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.9625101, 7.6251879]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Kleibach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.926646, 7.6095502]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Ems"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.9701585, 7.6589925]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 960,
+        "NAME": "Aasee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.94986285, 7.60407079384229]
+      }
+    }
+  ]
+}
